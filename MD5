@@ -1,0 +1,15 @@
+4036100dadd5ab45e476a520f273c8b2 *DESCRIPTION
+1294ead57087613dae9879ca1a7f4854 *LICENSE
+dcec9956c73ff4f450a1ea9981672b63 *NAMESPACE
+f3aed1dfab44e60fee51e654620c2790 *NEWS
+6e15545b3715646965731ca517849d96 *NEWS.md
+a98dfb99341dfac7d45e1416a89c127b *R/color.R
+2f47d40bfe2d864cc0923f471f9208b1 *R/legend.R
+0d467c3d63b52d57cf455c26095c044d *R/raster.R
+6219bcd39cf9572e07c412ae9c05bf7c *R/slideView.R
+f757630e13033294b617f8f38aa5b693 *README.md
+a90ee5c154d5ab00f206b9dae7e6b04d *inst/htmlwidgets/slideView.js
+36fb2212b37356b4d1f43757e6b1bd5c *inst/htmlwidgets/slideView.yaml
+c4dfb0e4bb76262139745b04a5d0e00e *man/figures/README-aral_slide.png
+dc886ff1bce0333680ca279f4f30862d *man/figures/slideview.gif
+10db4e8858157e37da2a003d0f3977b9 *man/slideView.Rd
